@@ -1,5 +1,5 @@
 # tinokot-project
-
+project for demonstaraiting knowalge of vue and full stack programming
 ## Project setup
 ```
 npm install
