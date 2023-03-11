@@ -1,0 +1,14 @@
+{
+  "units": {
+      "shahar" : "שחר",
+      "compass" : "מצפן" 
+  },
+  "doch1": {
+    "unKnown": "טרם הוזנו",
+    "vocation": "חופשה",
+    "sick": "מחלה",
+    "course": "קורס",
+    "notInCountry": "חול",
+    "different": "אחר"
+  }
+}
